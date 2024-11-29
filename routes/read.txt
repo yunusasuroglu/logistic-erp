@@ -1,0 +1,8 @@
+- onay sonrası müşteriye hoşgeldin mesajı geçilicek
+
+- Destek Sistemi Eklenicek
+
+- validasyonlar yapılıcak
+- Bildirimler Eklenicekq
+- Hata Sayfaları Açılıcak 404 403 
+- Bakım Sayfası oluşturulucak maintanence
