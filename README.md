@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="/public/assets/images/systems-logo/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="[/public/assets/images/systems-logo/logo-dark.png](https://github.com/yunusasuroglu/php-laravel-logistic-erp/blob/main/public/assets/images/systems-logo/logo-dark.png?raw=true)" width="400" alt="Laravel Logo"></a></p>
 
 ## Company Dashboard
 
