@@ -1,11 +1,11 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/yunusasuroglu/php-laravel-logistic-erp/blob/main/public/assets/images/systems-logo/logo-dark.png" width="400" alt="Company Logo"></a></p>
+<p align="center"><a href="https://github.com/yunusasuroglu/" target="_blank"><img src="https://github.com/yunusasuroglu/php-laravel-logistic-erp/blob/main/public/assets/images/systems-logo/logo-dark.png" width="400" alt="Company Logo"></a></p>
 
 ## Company Dashboard
 
 From this panel, you can manage your logistics company by using the personnel working in your company, the shipments created by these personnel, and many modules used in the logistics field.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/laravel/framework/actions">
+  <a href="https://github.com/yunusasuroglu/">
     <img width="500" src="public/assets/images/project/2.png" alt="Company Dashboard">
   </a>
 </p>
@@ -16,7 +16,7 @@ From this panel, you can manage your logistics company by using the personnel wo
 super admin control panel: from this panel you can manage multi-language management, multi-company management, multi-user management, multi-role and permission management and software settings.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/laravel/framework/actions">
+  <a href="https://github.com/yunusasuroglu/">
     <img width="500" src="public/assets/images/project/1.png" alt="Super Admin Dashboard">
   </a>
 </p>
