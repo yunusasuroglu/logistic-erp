@@ -2,11 +2,11 @@
 
 ## Company Dashboard
 
-Dashboard used by companies with multiple company modules. You can access all links on the dashboard from the side menu.
+From this panel, you can manage your logistics company by using the personnel working in your company, the shipments created by these personnel, and many modules used in the logistics field.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/laravel/framework/actions">
-    <img width="500" src="public/assets/images/project/2.png" alt="Build Status">
+    <img width="500" src="public/assets/images/project/2.png" alt="Company Dashboard">
   </a>
 </p>
 
@@ -17,7 +17,7 @@ super admin control panel: from this panel you can manage multi-language managem
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/laravel/framework/actions">
-    <img width="500" src="public/assets/images/project/1.png" alt="Build Status">
+    <img width="500" src="public/assets/images/project/1.png" alt="Super Admin Dashboard">
   </a>
 </p>
 
@@ -28,8 +28,6 @@ super admin control panel: from this panel you can manage multi-language managem
 - Multi Roles and Permissions Module.
 - Multi Language Module.
 - Bulk Emailler Module.
-- Stripe Payment Module.
-- Calender Module
 - Reservation Module
 - Customer Management Module
 - Invoices Module
