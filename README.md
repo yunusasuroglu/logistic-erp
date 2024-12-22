@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/yunusasuroglu/php-laravel-logistic-erp/blob/main/public/assets/images/systems-logo/logo-dark.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/yunusasuroglu/php-laravel-logistic-erp/blob/main/public/assets/images/systems-logo/logo-dark.png" width="400" alt="Company Logo"></a></p>
 
 ## Company Dashboard
 
@@ -6,10 +6,7 @@ Dashboard used by companies with multiple company modules. You can access all li
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/laravel/framework/actions">
-    <img width="300" src="public/assets/images/project/3.png" alt="Build Status">
-  </a>
-  <a href="https://packagist.org/packages/laravel/framework">
-    <img width="300" src="public/assets/images/project/4.png" alt="Total Downloads">
+    <img width="300" src="public/assets/images/project/2.png" alt="Build Status">
   </a>
 </p>
 
@@ -20,7 +17,7 @@ super admin control panel: from this panel you can manage multi-language managem
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/laravel/framework/actions">
-    <img width="400" src="public/assets/images/project/2.png" alt="Build Status">
+    <img width="400" src="public/assets/images/project/1.png" alt="Build Status">
   </a>
 </p>
 
